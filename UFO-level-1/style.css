@@ -1,0 +1,44 @@
+/* <a href='https://www.freepik.es/fotos-vectores-gratis/fondo'>Vector de Fondo creado por freepik - www.freepik.es</a> */
+body {
+    background-image: url('bg4.jpg');
+    background-size: cover;
+    height: 100vh;
+    background-position: left;
+    
+    
+}
+.header{
+    width:100%;
+    background-color: rgba(95, 91, 91, 0.2);
+}
+.header ul{
+    text-align: center;
+}
+.header ul li{
+    list-style: none;
+    display: inline-block;
+}
+.header ul li a{
+    display: block;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+    letter-spacing: 2px;
+    font-weight: 600;
+    padding: 25px;
+}
+#title{
+    color: #fff;
+    display: block;
+    font-size: 20px;
+}
+
+th{
+    color: #fff;
+    text-align: center;
+}
+tbody{
+    color: #fff;
+}
